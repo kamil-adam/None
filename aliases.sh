@@ -10,6 +10,7 @@ alias sbti='sbt clean coverage scalafmt test:scalafmt it:scalafmt test it:test c
 alias sbttt='sbt clean coverage scalafmt::test test:scalafmt::test test coverageReport'
 alias sbtt='sbt clean coverage scalafmt test:scalafmt test coverageReport'
 alias style='sbt scalastyle'
+alias stylegc='sbt scalastyleGenerateConfig'
 
 alias dsbtit='./sbt clean coverage scalafmt::test test:scalafmt::test it:scalafmt::test test it:test coverageReport'
 alias dsbti='./sbt clean coverage scalafmt test:scalafmt it:scalafmt test it:test coverageReport'
