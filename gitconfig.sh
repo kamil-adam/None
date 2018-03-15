@@ -1,3 +1,4 @@
+git config credential.helper 'cache --timeout=3600'
 mkdir gitconfig
 mv .gitconfig  gitconfig
 cd gitconfig
