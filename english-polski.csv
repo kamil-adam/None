@@ -19,6 +19,7 @@ a direction,kierunek
 a disease,choroba
 a dough,ciasto (do pizzy)
 a duel,pojedynek
+a dueling,pojedynkowanie
 a fare / a fee,opłata
 a fibre,błonnik
 a fight,walka
@@ -37,12 +38,14 @@ a homework,praca domowa (lekcje)
 a host,gospodarz
 a housework,prace domowe (sprzątanie)
 a hurt,ból
+a jewellery,biżuteria
 a kayak / a canoe,kajak
 a lane,pas drogowy
 a lecture,wykład
 a lesson,lekcja
 a litlle bit,trochę
 a living room,salon
+a loan,pożyczka
 a lot of / plenty of,dużo
 a mattress,materac
 a meal,posiłek
@@ -102,13 +105,29 @@ althogh,chociaż
 amount,ilość
 an addiction,uzależnienie
 an embassy,ambasada
+an income,dochód
+an intuition,intuicja
+attached,przywiązany
 aware of,świadomy
 buttocks,posladki
 cereal,zboże
 certaily,na pewno
+conscious,świadomy
 cured,leczony
+definitely,zdecydowanie
+disappointed,rozczarowany
+exceptional,wyjątkowy
+following,następujący
+funny,zabawny
+gluten-free,bezglutenowy
+gullible,łatwowierny
+happy,szczęśliwy
 hard,ciężko
 hardly,ledwie
+healthy,zdrowy
+informal,nieformalny
+instead of,zamiast
+intuitive,intuicyjny
 joins,stawy
 just,właśnie
 large,duży
@@ -176,6 +195,7 @@ to greet,powitać
 to harm out,wyrządzić krzywdę
 to have to/had to,musieć
 to hire,wynająć / zatrudniać
+to improve,poprawić
 to kill,zabić
 to last,trwać
 to let,pozwalać
