@@ -8,6 +8,7 @@ a bone,kość
 a border,granica
 a bowl,miska
 a brake,hamulec
+a breakfast,śniadanie
 a breath,oddech
 a breed,rasa
 a by-pass,obwodnica
@@ -20,6 +21,11 @@ a court,sąd
 a cuisine,kuchnia
 a cure,lekarstwo
 a currency,waluta
+a dandruff shampoo,szampon przeciwłupieżowy
+a dandruff,łupież
+a desert island,bezludna wyspa
+a desert,pustynia
+a dessert,deser
 a dining room,jadalnia
 a direction,kierunek
 a disease,choroba
@@ -49,6 +55,9 @@ a high school,liceum
 a hint,wskazówka
 a holder,uchwyt
 a homework,praca domowa (lekcje)
+a hood,kaptur
+a hooded,zakapturzony
+a hoodie,bluza z kapturem
 a host,gospodarz
 a housework,prace domowe (sprzątanie)
 a hummingbird,koliber
@@ -57,16 +66,22 @@ a jewellery,biżuteria
 a kayak / a canoe,kajak
 a lane,pas drogowy
 a lecture,wykład
+a lemon balm,melisa
 a lesson,lekcja
 a litlle bit,trochę
 a living room,salon
 a loan,pożyczka
 a lot of / plenty of,dużo
+a lot,dużo
 a mammal,ssak
+a maternity leave,urlop macierzyński
 a mattress,materac
 a meal,posiłek
+a might,moc
 a monk,mnich
 a mortgage,kredyt hipoteczny
+a neighbor,sąsiad
+a neighborhood,sąsiedztwo
 a notebook,notes
 a nun,mniszka
 a nutrition,pożywienie
@@ -85,6 +100,8 @@ a point from,poza
 a poisoning,zatrucie
 a pressure,nacisk
 a prize / an award,nagroda
+a probation,staż
+a probationary period,okres próbny
 a protein,białko
 a protozoa,pierwotniak
 a recording,nagranie
@@ -92,6 +109,7 @@ a relative,krewny
 a relief,ulga
 a requirement,wymaganie
 a research,badania
+a retreat,odosobnienie
 a rivalry,rywalizacja
 a roof,dach
 a scarecrow,strach na wróble
@@ -110,6 +128,7 @@ a strength,siła
 a stuffocation,zbieractwo (choroba)
 a sudden death,nagła śmierć
 a sugar,cukier
+a teller,narrator
 a tendency,tendencja
 a tender,delikatny
 a tenderness,czułość
@@ -130,18 +149,24 @@ a wardrobe,szafa
 a waste,marnotrawstwo
 a wing,skrzydło
 a wish,życzenie
+aboard,na pokładzie
 above,powyżej
+abroad,za granicą
 abroad,za granicą
 according,według
 addicted to,uzależniony od
 additionally,dotatkowo
 adults,dorośli ludzie
+afraid of,bać się
+afraid,sprzestraszony
 allowed,dozwolony
 althogh,chociaż
 amount,ilość
 an addiction,uzależnienie
+an adulthood,dorosłość
 an aim,cel
 an allowance,dodatek
+an anti-dandruff shampoo,szampon przeciwłupieżowy
 an approach,podejście
 an avalanche,lawina
 an embassy,ambasada
@@ -164,8 +189,10 @@ cereal,zboże
 certaily,na pewno
 climber,wspinacz
 conscious,świadomy
+convinced,przekonany
 cured,leczony
 definitely,zdecydowanie
+deserted,opustoszały
 disappointed,rozczarowany
 equalized,wyrównany
 exceptional,wyjątkowy
@@ -178,9 +205,18 @@ hard,ciężko
 hardly,ledwie
 healthy,zdrowy
 hold on,czekaj
+I am afraid of dogs,Boje się psów
+I am afraid of heights,Mam lęk wysokości
+I am afraid of you,Boje się Ciebie
+I could,mógłbym
+I don't admit,Nie przyznaję się
+I don't sleep at all,W ogóle nie śpię
+I feel like eating,Mam ochotę jeść
+I might,mógłbym
 informal,nieformalny
 instead of,zamiast
 intuitive,intuicyjny
+invited,zaproszony
 joins,stawy
 just,właśnie
 large,duży
@@ -189,9 +225,13 @@ likely to be,prawdopodobieństwo
 likely to happen,może się zdarzyć
 likely,prawdopodobnie
 Mexico,Meksyk
+might be,może być
+mighty,potężny
 nasty,paskudny
 near,obok
 nearly,prawie
+neighboring,sąsiedni
+neighborly,sąsiedzki
 no wonder,nic dziwnego
 nutritional,odżywcze
 nutritious,pożywny
@@ -206,6 +246,7 @@ poisoned,zatruty
 poisonous,trujący
 polite,uprzejmy
 previous,poprzednio
+probationary,próbny
 productively,produktywnie
 proud,dumny
 put on weight,przybrać na wadze
@@ -217,10 +258,14 @@ recent,niedawny
 recently,niedawno
 remaining,pozostały
 rows,wiosła
+Say something,Powiedz coś
 scared,przerażony
 scary,straszny
 secure,bezpieczny
 sensible,rozsądny
+separate,oddzielny
+separated,rozdzielony
+separately,osobno
 several,kilka
 shared,udostępniony
 shiny,błyszczący
@@ -240,6 +285,7 @@ suddenly,nagle
 talkative,gadatliwy
 thin,cienkie
 tight,ciasny
+to admit,przyznać
 to aim,celować
 to allow,dopuszczać
 to approach,zbliżać się
@@ -255,6 +301,7 @@ to buy/bought,On kupił
 to climb,wspinać się
 to comb,czesać
 to complain,narzekać / składać reklamację
+to convince,przekonać
 to describe,opisywać
 to develop,rozwijać
 to discuss,dyskutować
@@ -281,6 +328,7 @@ to have to/had to,musieć
 to hire,wynająć / zatrudniać
 to hold,utrzymać
 to improve,poprawić
+to invite,zapraszać
 to kill,zabić
 to last,trwać
 to let,pozwalać
@@ -305,7 +353,9 @@ to receive,dostać / otrzymać
 to regret,żałować
 to require,wymagać
 to rest,odpoczywać
+to retreat,wycofać się
 to rob,okradać
+to say,mówić (coś)
 to scare,przestraszyć
 to seem,wydawać się
 to sell,sprzedawać
@@ -315,6 +365,8 @@ to shoot,strzelać
 to steal,kraść
 to suffer,cierpieć
 to syffocation,uduszenie
+to take action,podjąć działanie
+to tell,powiedzieć (komuś)
 to tend,zmierzać
 to think up,wymyślać
 to work out,obrobić
