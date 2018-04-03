@@ -1,14 +1,19 @@
+a bandage,bandaż
 a beetle,chrząszcz
 a behavior,zachowanie
+a bend,zakręt
 a blood,krew
 a boarding school,internat
 a bone,kość
 a border,granica
 a bowl,miska
+a brake,hamulec
+a breath,oddech
 a breed,rasa
 a by-pass,obwodnica
 a carbohydrate,węglowodan
 a childhood,dzieciństwo
+a climbing,wspinaczka
 a colleague,kolega z pracy
 a commuter,dojeżdżający
 a court,sąd
@@ -19,12 +24,18 @@ a dining room,jadalnia
 a direction,kierunek
 a disease,choroba
 a dough,ciasto (do pizzy)
+a drawback,wada
+a drawer,szuflada
+a drawing,rysunek
 a duel,pojedynek
 a dueling,pojedynkowanie
 a experience,doświadczenie
 a fare / a fee,opłata
 a fibre,błonnik
 a fight,walka
+a fin,płetwa
+a forest,las
+a forestry,leśnictwo
 a fur,sierść
 a furniture,meble
 a gambling,hazard
@@ -36,6 +47,7 @@ a happiness,szczęście
 a harm,szkoda
 a high school,liceum
 a hint,wskazówka
+a holder,uchwyt
 a homework,praca domowa (lekcje)
 a host,gospodarz
 a housework,prace domowe (sprzątanie)
@@ -59,15 +71,19 @@ a notebook,notes
 a nun,mniszka
 a nutrition,pożywienie
 a nutritionist,specjalista od żywienia
+a occupation,zawód
 a opportunity,szansa / możliwość
 a paddle,wiosło do kajaku
 a page,strona
+a pavement,bruk
 a peeler,przyrząd do obierania
 a permission,pozwolenie
 a piece of advice,rada
 a pile,stos
 a platform,platforma
 a point from,poza
+a poisoning,zatrucie
+a pressure,nacisk
 a prize / an award,nagroda
 a protein,białko
 a protozoa,pierwotniak
@@ -78,14 +94,25 @@ a requirement,wymaganie
 a research,badania
 a rivalry,rywalizacja
 a roof,dach
+a scarecrow,strach na wróble
 a seat belt,pas bezpieczeństwa
 a security,bezpieczeństwo
+a shooter,strzelec
+a shooting,strzelanie
 a shrew,ryjówka
 a skill,umiejętność
 a speech,przemowa
+a still life,martwa natura
+a stillness,spokój
+a stomach ache,ból brzucha
+a stomach,żołądek
 a strength,siła
 a stuffocation,zbieractwo (choroba)
+a sudden death,nagła śmierć
 a sugar,cukier
+a tendency,tendencja
+a tender,delikatny
+a tenderness,czułość
 a tent,namiot
 a text message,sms
 a tie,wiązanie
@@ -93,37 +120,54 @@ a truck / a lorry,ciężarówka
 a trunk,bagażnik / kufer
 a value,wartość
 a variety,różnorodność
-a vegetable,warzywo
 a vegetable matter, materia roślinna
 a vegetable oil,olej roślinny
 a vegetable soup,zupa warzywna
+a vegetable,warzywo
 a waiter,kelner
 a waitress,kelnerka
 a wardrobe,szafa
 a waste,marnotrawstwo
 a wing,skrzydło
 a wish,życzenie
+above,powyżej
 abroad,za granicą
 according,według
 addicted to,uzależniony od
 additionally,dotatkowo
 adults,dorośli ludzie
+allowed,dozwolony
 althogh,chociaż
 amount,ilość
 an addiction,uzależnienie
+an aim,cel
+an allowance,dodatek
+an approach,podejście
+an avalanche,lawina
 an embassy,ambasada
+an equalizer,wyrównywać
 an income,dochód
 an intuition,intuicja
+an occurrence,występowanie
 an ostrich,struś
+approaching,zbliżający się
 attached,przywiązany
 aware of,świadomy
+away from home,z daleka od domu
+away from, z dala od
+away,z dala
+bandage contact lenses,bandażowe soczewki kontaktowe
+breathing,oddechowy
+breathtaking,zapierający dech w piersiach
 buttocks,posladki
 cereal,zboże
 certaily,na pewno
+climber,wspinacz
 conscious,świadomy
 cured,leczony
 definitely,zdecydowanie
 disappointed,rozczarowany
+equalized,wyrównany
 exceptional,wyjątkowy
 following,następujący
 funny,zabawny
@@ -133,6 +177,7 @@ happy,szczęśliwy
 hard,ciężko
 hardly,ledwie
 healthy,zdrowy
+hold on,czekaj
 informal,nieformalny
 instead of,zamiast
 intuitive,intuicyjny
@@ -140,9 +185,9 @@ joins,stawy
 just,właśnie
 large,duży
 lately,ostatnio
-likely,prawdopodobnie
 likely to be,prawdopodobieństwo
 likely to happen,może się zdarzyć
+likely,prawdopodobnie
 Mexico,Meksyk
 nasty,paskudny
 near,obok
@@ -150,11 +195,15 @@ nearly,prawie
 no wonder,nic dziwnego
 nutritional,odżywcze
 nutritious,pożywny
+off piste,poza trasą
 particular,szczególny
 particularity,osobliwy
 particularly,szczególnie
+paved,wybrukowany
 peeled,obrane
 pointless,bez sensu
+poisoned,zatruty
+poisonous,trujący
 polite,uprzejmy
 previous,poprzednio
 productively,produktywnie
@@ -162,10 +211,14 @@ proud,dumny
 put on weight,przybrać na wadze
 quite,całkiem
 rage,wściekły
+reached,osiągnięty
+reaching,osiągając
 recent,niedawny
 recently,niedawno
 remaining,pozostały
 rows,wiosła
+scared,przerażony
+scary,straszny
 secure,bezpieczny
 sensible,rozsądny
 several,kilka
@@ -177,61 +230,92 @@ simply,po prostu
 slim,szczupły
 southern,południowy
 species,gatunki
+still,nadal
+stillborn,poroniony
 stressful,stresujący
 stripes,paski
+sudden,nagły
+suddenly there was a strange noise,nagle nastąpił dziwny hałas
+suddenly,nagle
 talkative,gadatliwy
 thin,cienkie
 tight,ciasny
+to aim,celować
+to allow,dopuszczać
+to approach,zbliżać się
 to arrive,przybyć
 to behave,zachowywać się
 to biol,gotować
 to bite,gryźć
+to brake,hamować
+to breathe,oddychać
 to breed,rozmnażać/hodować
 to bring/brought,przynosić
 to buy/bought,On kupił
+to climb,wspinać się
 to comb,czesać
 to complain,narzekać / składać reklamację
 to describe,opisywać
 to develop,rozwijać
 to discuss,dyskutować
+to draw attention to,zwróć uwagę na
+to draw attention,przyciągać uwagę
+to draw,rysować
 to drink/drank,pić
 to drive/drove,jechać
+to equalize,wyrównać
 to expect,spodziewać się
+to fail on,zawieść
 to find out,dowiedzieć się
+to forestall,uprzedzać
 to forget,zapomnieć
 to fry,smażyć
+to get down to business,Przejdźmy do rzeczy
+to get down to work,zabrać się do pracy
+to get down to,zabrać się do
+to get down,schodzić
 to give lessons,dawać lekcje
 to greet,powitać
 to harm out,wyrządzić krzywdę
 to have to/had to,musieć
 to hire,wynająć / zatrudniać
+to hold,utrzymać
 to improve,poprawić
 to kill,zabić
 to last,trwać
 to let,pozwalać
+to lie still,leżeć spokojnie
 to need,potrzebować
+to occur,pojawiać się
 to overtake,wyprzedzać
 to paddle,osłować
+to pave,brukować
 to peal off,obrać
 to peel,obierać
+to poison,zatruć
 to preach,nauczać
 to prefer,woleć
 to pretend,udawać
 to prove,udowadniać
 to pull up,zatrzymać się
+to reach out,osiągnąć
+to reach,dosięgać
 to recall,przypominać sobie
 to receive,dostać / otrzymać
 to regret,żałować
 to require,wymagać
 to rest,odpoczywać
 to rob,okradać
+to scare,przestraszyć
 to seem,wydawać się
 to sell,sprzedawać
 to share,dzielić
 to shared,dzielić
+to shoot,strzelać
 to steal,kraść
 to suffer,cierpieć
 to syffocation,uduszenie
+to tend,zmierzać
 to think up,wymyślać
 to work out,obrobić
 toppings,dodatki do pizzy
