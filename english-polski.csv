@@ -40,6 +40,7 @@ a desert,pustynia
 a dessert,deser
 a dining room,jadalnia
 a direction,kierunek
+a disadvantage,wada
 a discarding,odrzucanie
 a disease,choroba
 a dough,ciasto (do pizzy)
@@ -55,6 +56,8 @@ a feeling,uczucie
 a fibre,błonnik
 a fight,walka
 a fin,płetwa
+a flavor,smak
+a flavoring,przyprawa
 a forest,las
 a forestry,leśnictwo
 a freight train,pociąg towarowy
@@ -90,6 +93,7 @@ a lender,pożyczający
 a lesson,lekcja
 a litlle bit,trochę
 a living room,salon
+a lizard,jaszczurka
 a loan,pożyczka
 a lot of / plenty of,dużo
 a lot,dużo
@@ -97,6 +101,7 @@ a mammal,ssak
 a maternity leave,urlop macierzyński
 a mattress,materac
 a meal,posiłek
+a measurement,pomiar
 a might,moc
 a millionaire,milioner
 a monk,mnich
@@ -130,6 +135,8 @@ a recession,recesja
 a recording,nagranie
 a relative,krewny
 a relief,ulga
+a reptile house,terrarium
+a reptile,gad
 a requirement,wymaganie
 a research,badania
 a retirement age,wiek emerytalny
@@ -144,10 +151,13 @@ a salmon,łosoś
 a scarecrow,strach na wróble
 a seat belt,pas bezpieczeństwa
 a security,bezpieczeństwo
+a shelter,schron
 a shooter,strzelec
 a shooting,strzelanie
 a shrew,ryjówka
 a skill,umiejętność
+a space,kosmos / przestrzeń
+a spacecraft / a spaceship,statek kosmiczny
 a speech,przemowa
 a still life,martwa natura
 a stillness,spokój
@@ -166,8 +176,10 @@ a tenderness,czułość
 a tent,namiot
 a text message,sms
 a tie,wiązanie
+a tortoise,żółw wodny
 a truck / a lorry,ciężarówka
 a trunk,bagażnik / kufer
+a turtle,żółw lądowy
 a value,wartość
 a variety,różnorodność
 a vegetable matter, materia roślinna
@@ -195,6 +207,7 @@ althogh,chociaż
 amount,ilość
 an addiction,uzależnienie
 an adulthood,dorosłość
+an advantage,zaleta
 an aim,cel
 an allowance,dodatek
 an anti-dandruff shampoo,szampon przeciwłupieżowy
@@ -203,13 +216,19 @@ an approach,podejście
 an avalanche,lawina
 an embassy,ambasada
 an equalizer,wyrównywać
+an evidence,dowód
+an improvement,poprawa
 an income,dochód
 an instinct,instynkt
 an intuition,intuicja
+an invention,wynalazek
+an inventory,inwentarz
 an occurrence,występowanie
 an ostrich,struś
+applied,stosowany
 approaching,zbliżający się
 ashamed,zawstydzony
+at the weekend,w weekend
 attached,przywiązany
 awarded,nagrodzony
 aware of,świadomy
@@ -233,7 +252,10 @@ completely normal,zupełnie normalny
 completely,całkowicie
 conscious,świadomy
 contracted,zakontraktowany
+convince me,przekonaj mnie
+convinced / persuaded,przekonany
 convinced,przekonany
+creature,istota / stworzenie
 cured,leczony
 definitely,zdecydowanie
 deserted,opustoszały
@@ -242,10 +264,14 @@ discarded,odrzucony
 door-to-door,od drzwi do drzwi
 downstairs,na dół
 equalized,wyrównany
+evidence-based,oparte na dowodach
+evidenced,udowodnione
 exceptional,wyjątkowy
 fed,karmiony
+flavored,przyprawiony
 following,następujący
 freely,swobodnie
+from space,z kosmosu
 funny,zabawny
 give up the ghost,poddaj się duchu
 gluten-free,bezglutenowy
@@ -263,14 +289,21 @@ I am ashamed of you,wstydzę się ciebie
 I could,mógłbym
 I don't admit,Nie przyznaję się
 I don't sleep at all,W ogóle nie śpię
+I eat too much,jem za dużo
 I feel like eating,Mam ochotę jeść
 I might,mógłbym
+I shouldn't,nie powinienem
+I tell you,mówię wam
+improved,poprawiony
 informal,nieformalny
 instead of,zamiast
 instinctive,instynktowny
 instinctively,instynktownie
 intuitive,intuicyjny
+invented,zmyślony
 invited,zaproszony
+invited,zaproszony
+it results from,to wynika z
 joins,stawy
 just,właśnie
 large,duży
@@ -279,11 +312,14 @@ leather,skórzany
 likely to be,prawdopodobieństwo
 likely to happen,może się zdarzyć
 likely,prawdopodobnie
+measured,wymierzony
 Mexico,Meksyk
 might be,może być
 mighty,potężny
 nasty,paskudny
+near future,bliska przyszłość
 near,obok
+nearlu,prawie
 nearly,prawie
 neighboring,sąsiedni
 neighborly,sąsiedzki
@@ -308,11 +344,15 @@ proud,dumny
 put on weight,przybrać na wadze
 quite,całkiem
 rage,wściekły
+rare rocks,rzadkie skały
+rare,rzadki
+rarely,rzadko
 reached,osiągnięty
 reaching,osiągając
 recent,niedawny
 recently,niedawno
 remaining,pozostały
+reptiles and amphibians,gady i płazy
 retirement,przejść na emeryturę
 rows,wiosła
 sales,obroty
@@ -330,11 +370,14 @@ separately,osobno
 several,kilka
 Shame yourself,wstydź się
 shared,udostępniony
+sheltered,zaciszny
 shiny,błyszczący
 sick,chory
 simple,prosty
 simply,po prostu
 slim,szczupły
+slowly,powoli
+some breeds are like that,niektóre rasy takie są
 southern,południowy
 species,gatunki
 still,nadal
@@ -352,6 +395,7 @@ to afford sth,pozwolić sobie na coś
 to aim,celować
 to allow,dopuszczać
 to apply for loan,ubiegaź się o pozyczkę
+to apply,zastosować
 to approach,zbliżać się
 to arrive,przybyć
 to be ashamed of sth,wstydzić się czegoś
@@ -369,6 +413,7 @@ to calculate,obliczać
 to climb,wspinać się
 to comb,czesać
 to complain,narzekać / składać reklamację
+to convince,przekonać
 to convince,przekonać
 to cry,płakać
 to describe,opisywać
@@ -405,26 +450,34 @@ to have to/had to,musieć
 to hire,wynająć / zatrudniać
 to hold,utrzymać
 to improve,poprawić
+to improve,poprawić
+to invent,wynaleźć
 to invite,zapraszać
+to invite,zaprosić
 to kill,zabić
 to last,trwać
 to lend,wypożyczać
 to let,pozwalać
 to lie still,leżeć spokojnie
+to measure,mierzyć
 to need,potrzebować
 to occur,pojawiać się
+to occur,wydarzyć się
 to overtake,wyprzedzać
 to owe,zawdzięczać
 to paddle,osłować
 to pave,brukować
 to peal off,obrać
 to peel,obierać
+to persuade oneself,przekonać kogoś
+to persuade,namawiać
 to pick up,odebrać
 to pick,wybierać
 to poison,zatruć
 to preach,nauczać
 to prefer,woleć
 to pretend,udawać
+to prove,dowodzić,dowieść
 to prove,udowadniać
 to pull up,zatrzymać się
 to quit,porzucić
@@ -458,6 +511,7 @@ to tell,powiedzieć (komuś)
 to tend,zmierzać
 to think up,wymyślać
 to work out,obrobić
+too slow,za wolny
 toppings,dodatki do pizzy
 trousers,spodnie
 truffles,trufle
