@@ -9,7 +9,9 @@ alias gfix2='g stash; g fix; g stash pop'
 alias vish="vim ~/.bashrc"
 alias srcsh="source ~/.bashrc"
 
-alias stylegc='sbt scalastyleGenerateConfig'
+
+# OLD
+
 alias style='sbt scalastyle'
 alias sbtss="sbt stats scalastyle"
 
@@ -37,4 +39,20 @@ alias dsbttia_="./sbt clean scalafmt test:scalafmt coverage test coverageReport 
 alias dsbtt_='./sbt clean scalafmt test:scalafmt coverage test coverageReport'
 alias dsbti_="./sbt clean scalafmt test:scalafmt it:scalafmt coverage test it:test coverageReport && sbt coverageAggregate"
 alias dsbtia_="./sbt clean scalafmt test:scalafmt it:scalafmt coverage test it:test assembly coverageReport && sbt coverageAggregate"
+
+# NEW
+
+alias dsbt='./sbt'
+alias dsbtsgc='dsbt scalastyleGenerateConfig'
+alias dsbta='dsbt assembly' 
+alias dsbtca='dsbt coverageAggregate'
+alias dsbtcl="dsbt clean"
+
+alias dsbtct="dsbtcl 'scalafixCli --test' sbt:scalafmt::test scalafmt::test test:scalafmt::test it:scalafmt::test scalastyle stats"
+alias dsbtc="dsbtcl scalafixCli sbt:scalafmt scalafmt test:scalafmt it:scalafmt scalastyle stats"
+alias dsbtfmt="dsbtcl sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
+alias dsbtfmt_="dsbtclscalafmt test:scalafmt it:scalafmt"
+alias dsbtt="dsbt coverage test coverageReport && dsbtca"
+alias dsbti="dsbt coverage test it:test coverageReport && dsbta"
+
 
