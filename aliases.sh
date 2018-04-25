@@ -22,7 +22,8 @@ alias dsbtsit="dsbtcl 'scalafixCli --test' sbt:scalafmt::test scalafmt::test tes
 alias dsbtsut="dsbtcl 'scalafixCli --test' sbt:scalafmt::test scalafmt::test test:scalafmt::test"
 alias dsbtsi="dsbtcl scalafixCli sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
 alias dsbtsu="dsbtcl scalafixCli sbt:scalafmt scalafmt test:scalafmt"
-alias dsbtfmt="dsbtcl sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
+alias dsbtfmti="dsbtcl sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
+alias dsbtfmtu="dsbtcl sbt:scalafmt scalafmt test:scalafmt"
 alias dsbtfmt_="dsbtcl scalafmt test:scalafmt it:scalafmt"
 
 # dynamic
