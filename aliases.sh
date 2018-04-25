@@ -4,7 +4,7 @@ alias ..='cd ..'
 
 alias g='git'
 alias gfix='g rebase -i HEAD~2; g push -f'
-alias gfix2='g stash; g fix; g stash pop'
+alias gfix2='g stash; gfix; g stash pop'
 
 alias vish="vim ~/.bashrc"
 alias srcsh="source ~/.bashrc"
