@@ -49,11 +49,13 @@ alias dsbtca='dsbt coverageAggregate'
 alias dsbtcl='dsbt clean'
 alias dsbts='dsbt scalastyle stats' 
 
-alias dsbtct="dsbtcl 'scalafixCli --test' sbt:scalafmt::test scalafmt::test test:scalafmt::test it:scalafmt::test"
-alias dsbtc="dsbtcl scalafixCli sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
+alias dsbtsit="dsbtcl 'scalafixCli --test' sbt:scalafmt::test scalafmt::test test:scalafmt::test it:scalafmt::test"
+alias dsbtsut="dsbtcl 'scalafixCli --test' sbt:scalafmt::test scalafmt::test test:scalafmt::test"
+alias dsbtsi="dsbtcl scalafixCli sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
+alias dsbtsu="dsbtcl scalafixCli sbt:scalafmt scalafmt test:scalafmt"
 alias dsbtfmt="dsbtcl sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
 alias dsbtfmt_="dsbtcl scalafmt test:scalafmt it:scalafmt"
-alias dsbtt="dsbt coverage test coverageReport"
 alias dsbti="dsbt coverage test it:test coverageReport"
+alias dsbtu="dsbt coverage test coverageReport"
 
 
