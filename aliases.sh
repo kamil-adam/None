@@ -15,7 +15,8 @@ alias dsbtsgc='dsbt scalastyleGenerateConfig'
 alias dsbta='dsbt assembly' 
 alias dsbtca='dsbt coverageAggregate'
 alias dsbtcl='dsbt clean'
-alias dsbts='dsbt scalastyle stats' 
+alias dsbtss='dsbt scalastyle'
+alias dsbtsg='dsbt scapegoat'
 
 # static
 alias dsbtsit="dsbtcl 'scalafixCli --test' sbt:scalafmt::test scalafmt::test test:scalafmt::test it:scalafmt::test"
@@ -25,6 +26,7 @@ alias dsbtsu="dsbtcl scalafixCli sbt:scalafmt scalafmt test:scalafmt"
 alias dsbtfmti="dsbtcl sbt:scalafmt scalafmt test:scalafmt it:scalafmt"
 alias dsbtfmtu="dsbtcl sbt:scalafmt scalafmt test:scalafmt"
 alias dsbtfmt_="dsbtcl scalafmt test:scalafmt it:scalafmt"
+alias dsbts='dsbt scalastyle scapegoat'
 
 # dynamic
 alias dsbtdi="dsbt coverage test it:test coverageReport"
