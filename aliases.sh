@@ -5,8 +5,9 @@ alias ..='cd ..'
 alias g='git'
 alias gfix='g rebase -i HEAD~2; g push -f'
 alias gfix2='g stash; gfix; g stash pop'
-alias gupdate='git purr && git submodule update && git st'
 alias gcache='git config --global credential.helper "cache --timeout=3600"'
+alias gclone='git clone --recursive' 
+alias gupdate='git purr && git submodule update && git st'
 
 alias vish="vim ~/.bashrc"
 alias srcsh="source ~/.bashrc"
