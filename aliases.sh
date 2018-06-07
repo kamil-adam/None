@@ -37,4 +37,7 @@ alias dsbtdu="dsbt coverage test coverageReport"
 
 #GRADLE
 alias dgradlew='./gradlew'
-alias dgradlewcb='dgradlew clean build'
+alias dgradlewc='dgradlew clean'
+alias dgradlewcb='dgradlewc build'
+alias dgradlewcbt='dgradlewcb test'
+alias dgradlewcbtc='dgradlewcbt coverage'
