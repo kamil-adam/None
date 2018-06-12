@@ -7,8 +7,9 @@ alias gfix='g rebase -i HEAD~2; g push -f'
 alias gfix2='g stash; gfix; g stash pop'
 alias gcache='g config --global credential.helper "cache --timeout=3600"'
 alias gclone='g clone --recursive' 
-alias gupdate='g purr && g submodule update && g st'
-alias gmaster='g co master && git purr && g st'
+alias gupdate='g submodule update && g st'
+alias gpupdate='g purr && gupdate'
+alias gmaster='g co master && gpupdate'
 
 alias vish="vim ~/.bashrc"
 alias srcsh="source ~/.bashrc"
