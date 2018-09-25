@@ -1,15 +1,20 @@
 
-| Project     | Framework  | Write     | Read       |
-| ----------- | ---------- | --------- | ---------- |
-|  |  |  | |
-| Resentiment |            | Jekyll    |            |
-| Scalare     | Scalatra   | Twirl     | Scalate    |
-| Scalage     | Lagom      | REST      | REST       |
-|  |  |  | |
-| Scallops    |            |           |            |
-| Scallions   |            |           |            |
-| MoonFish    | DropWizard | Vaadin    | Mustache   |
-| aMoonFish   | RatPack    | Thymeleaf | Handlebars |
+| Project     | Framework     | Write     | Read       | Commnents       |
+| ----------- | ------------- | --------- | ---------- | --------------- |
+|  |  |  |  |  |
+| Resentiment |               | Jekyll    |            | Read-Only-Side  |
+| Scalare     | Scalatra      | Twirl     | Scalate    | Read-Write-Side |
+| Scalage     | Akka          | REST      | REST       | Storage         |
+| MoonFish    |               |           |            | LuaScript       |
+|  |  |  |  |  |
+| Scallops    |               |           |            | Library         |
+| Scallions   |               |           |            | Logic           |
+| Scallywag   | DropWizard    | Vaadin    | Mustache   | NoMagicService  |
+| a.Scallywag | RatPack       | Thymeleaf | Handlebars | aNoMagicService |
+|  |  |  |  |  |
+|             | PlayFramework |           |            |                 |
+|             | Lagom         |           |            |                 |
+
 
 
 
