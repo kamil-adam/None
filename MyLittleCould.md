@@ -8,9 +8,8 @@
 | MoonFish    |               |                 |            | LuaScript       |
 |  |  |  |  |  |
 | Scallops    |               |                 |            | Library         |
-| Scallions   |               |                 |            | Logic           |
-| Scallywag   | DropWizard    | Vaadin          | Mustache   | NoMagicService  |
-| a.Scallywag | RatPack       | Thymeleaf       | Handlebars | aNoMagicService |
+| Scallions   | Scalatra      | Akka.js         | Scalate    | Logic           |
+| Scallywag   | DropWizard    | GWT             | Mustache   | J@v@            |
 |  |  |  |  |  |
 | Scalper     | PlayFramework | React/Bootstrap |            | Service         |
 | Scalpel     | Lagom         | REST            | REST       | Storage         |
