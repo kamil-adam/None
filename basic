@@ -1,5 +1,11 @@
 
-`" $0 $1 radd
-(
-$0 $1 -1 add
-) radd
+-1 $1 $0 add radd
+-1 $1 $0 sub rsub
+-2 -1 $1 $0 mul rmul
+-3 -2 -1 $1 $0 pow2 rpow2
+-4 -3 -2 -1 $1 $0 div rdiv
+-3 -2 -1 $1 $0 pow rpow
+
+
+
+
