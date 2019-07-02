@@ -65,3 +65,11 @@ forth     - stosowa
 
 4 0 set
 3 0 inc
+
+
+4 \set 0
+5 \set 1
+4 \add 3
+
+4 \set 0
+3 \inc 0
