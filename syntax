@@ -20,3 +20,27 @@ string wieloliniowy bez escapowania
 `@ `"null
 `I `"TAB
 `J `"LF
+
+`" Definicja makra
+'string z kodem' operator
+
+('string z kodem' 'string z kodem' 'itd') operator
+
+"komentarz
+String z kodem
+string z kodem
+" operator
+
+("komentarz
+String z kodem
+string z kodem
+") operator
+
+("komentarz
+String z kodem
+string z kodem
+""komentarz
+String z kodem
+string z kodem
+") operator
+
