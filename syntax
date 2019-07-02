@@ -13,10 +13,15 @@ string wieloliniowy bez escapowania
 
 `" poniżej escapowanie
 
-```
-``' 
-``"
+``` `" grawes
+``' `" apostrof 
+``" `" cudzysłów
 
+'``' `" grawes
+'`'' `" apostrof 
+'`"' `" cudzysłów
+
+`" znaki kontrolne - jak w terminalu ale z `
 `@ `"null
 `I `"TAB
 `J `"LF
