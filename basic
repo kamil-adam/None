@@ -127,4 +127,54 @@ temp0[temp1- [>-]> [< x+ temp0[-]+ temp1>->]<+< temp0-]
 
 `" jmp? call? ret?
 
+`'
+*----------------*----------------*------------------*-------------------*-----------------*
+| stos systemowy | wskaźnik stosu | licznik programu | pamięć tymczasowa | pamięć globalna |
+*----------------*----------------*------------------*-------------------*-----------------*
+stos ma tylko 255 komórek 
+1 - wskaźnik stosu        - SP
+1 - licznik programu      - IL
+6 - pamięć tymczasowe     - _
+reszta - pamięc globalna  - ^  
 
+JMP
+
+IL+[
+
+IL IL2 mov
+1 IL2 qei
+IL2 [
+
+kod do wykonania
+
+x IL mov
+0 IL2 mov
+]
+
+IL IL2 mov
+2 IL2 qei
+IL2 [
+
+x IL mov
+0 IL2 mov
+]
+
+]
+`'
+
+
+(
+255 shift
+0 SP set
+1 IL set
+'['
+) start
+
+(
+0 IL set
+']'
+) end
+
+(
+
+) jmp
