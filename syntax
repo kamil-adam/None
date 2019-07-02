@@ -55,3 +55,13 @@ algol - tylko algorytmy
 basic     - rejestrowe
 forth     - stosowa
 `'
+
+
+`" od prawej
+
+4 0 set
+5 1 set
+4 5 add
+
+4 0 set
+3 0 inc
