@@ -1,0 +1,22 @@
+`z `n `a `k
+
+'string jednoliniowy z escapowanie' 
+
+"
+string wieloliniowy bez escapowania
+"
+
+`' komentarz wieloliniowy
+`'
+
+`" komentarz jednoliniowy
+
+`" poniżej escapowanie
+
+```
+``' 
+``"
+
+`@ `"null
+`I `"TAB
+`J `"LF
