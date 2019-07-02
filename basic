@@ -1,11 +1,122 @@
+'^0[-]' reset
 
--1 $1 $0 add radd
--1 $1 $0 sub rsub
--2 -1 $1 $0 mul rmul
--3 -2 -1 $1 $0 pow2 rpow2
--4 -3 -2 -1 $1 $0 div rdiv
--3 -2 -1 $1 $0 pow rpow
+'
+
+" ^1 -> ^0
+^0[-]
+^1[ ^0+ _1+ ^1- ]
+_1[ ^1+ _1- ]
+" set
+
+" ^0 + ^1 -> ^0 
+^1[ ^0+ _1+ ^1- ]
+_1[ ^1+ _1- ]
+" add
+
+" ^0 - ^1 -> ^0 
+^1[ ^0- _1+ ^1- ]
+_1[ ^1+ _1- ]
+" sub
+
+" ^0 * ^1 -> ^0
+^0[ _2+ ^1- ]
+_2[
+    ^1[ ^0+ _1+ ^1- ]
+    _1[ ^1+ _1- ]
+_2-]
+" mul
+
+" ^0 * ^0 -> ^0
+x[ temp2+ temp1+ x-]
+temp1[
+  temp2[ x+ temp0+ temp2- ]
+  temp0[ temp2+ temp0- ]
+  temp1-
+]
+" pow2
+
+" ^0 / ^1 -> ^0
+x[temp0+x-]
+temp0[
+ y[temp1+temp2+y-]
+ temp2[y+temp2-]
+ temp1[
+  temp2+
+  temp0-[temp2[-]temp3+temp0-]
+  temp3[temp0+temp3-]
+  temp2[
+   temp1-
+   [x-temp1[-]]+
+  temp2-]
+ temp1-]
+ x+
+temp0]
+" div
+
+" ^0 ** ^1 -> ^0
+ x[temp0+x-]
+ x+
+ y[
+   temp1[-]
+   temp2[-]
+   x[temp2+x-]
+   temp2[
+     temp0[x+temp1+temp0-]
+     temp1[temp0+temp1-]
+   temp2-]
+ y-]
+ " pow
+ 
+"
+x[temp0+x-]
+y[x+y-]
+temp0[y+temp0-]
+" swap
+
+"
+x[temp0-x-]
+temp0[x-temp0+]
+" neg
+
+`" x(y) = z (1-d array) (1 cell/array element)
+
+`" x = y(z) (1-d array) (1 cell/array element)
+
+"
+x[temp1+x-]+
+y[temp1-temp0+y-]
+temp0[y+temp0-]
+temp1[x-temp1[-]]
+" eq
+
+"
+x[temp1+x-]
+y[temp1-temp0+y-]
+temp0[y+temp0-]
+temp1[x+temp1[-]]
+" nq
+
+" x = x < y
+temp0[-]
+temp1[-] >[-]+ >[-] <<
+y[temp0+ temp1+ y-]
+temp0[y+ temp0-]
+x[temp0+ x-]+
+temp1[>-]> [< x- temp0[-] temp1>->]<+<
+temp0[temp1- [>-]> [< x- temp0[-]+ temp1>->]<+< temp0-]
+" lt
+
+"
+temp0[-]
+temp1[-] >[-]+ >[-] <<
+y[temp0+ temp1+ y-]
+temp1[y+ temp1-]
+x[temp1+ x-]
+temp1[>-]> [< x+ temp0[-] temp1>->]<+<
+temp0[temp1- [>-]> [< x+ temp0[-]+ temp1>->]<+< temp0-]
+" le
 
 
+`"""""""""""""""""""""""""""""""""""""""""""
 
-
+`" jmp? call? ret?
